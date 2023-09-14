@@ -1,7 +1,7 @@
 # MemeLivre Meme Sharing Application
 Live: https://memelivre.coderaky.com/
 
-![Memelivre](https://github.com/ralphcoder/pessonal/blob/master/photoes/Screenshot%20(444).png)?raw=true)
+![Memelivre](meme.jpeg)
 
 
 ## Description:
